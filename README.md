@@ -1,3 +1,3 @@
 # Name It
 
-A react project for searching cool name for you...!!!
+A react project for searching cool name for your domain...!!!
